@@ -6752,6 +6752,12 @@
     },
     "done": true
   },
+  "simplyswords:arcanethyst": {
+    "criteria": {
+      "requirement": "2025-06-03 06:12:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/pig_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-06-03 04:39:40 +0000"
