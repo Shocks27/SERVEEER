@@ -117,6 +117,7 @@
       "bamboo_forest": "2025-05-31 01:39:29 +0000",
       "temperate_grove": "2025-05-26 02:49:33 +0000",
       "grassland": "2025-05-26 02:08:31 +0000",
+      "prairie": "2025-06-03 05:52:14 +0000",
       "redwoods": "2025-05-26 02:09:31 +0000"
     },
     "done": false
@@ -135,6 +136,7 @@
       "bamboo_forest": "2025-05-31 01:39:29 +0000",
       "temperate_grove": "2025-05-26 02:49:33 +0000",
       "grassland": "2025-05-26 02:08:31 +0000",
+      "prairie": "2025-06-03 05:52:14 +0000",
       "redwoods": "2025-05-26 02:09:31 +0000"
     },
     "done": false
@@ -2099,6 +2101,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-26 02:49:31 +0000",
       "minecraft:spider": "2025-06-03 05:38:02 +0000",
+      "minecraft:creeper": "2025-06-03 05:56:44 +0000",
       "minecraft:zombie": "2025-05-26 03:23:29 +0000"
     },
     "done": false
@@ -3567,6 +3570,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-03 06:02:54 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/diorite": {
     "criteria": {
       "has_wood": "2025-06-03 05:37:15 +0000"
@@ -4251,6 +4260,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-03 06:02:54 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/white_cape": {
     "criteria": {
       "has_white_wool": "2025-06-03 05:17:58 +0000"
@@ -4704,6 +4719,12 @@
   "valhelsia_furniture:recipes/decorations/gray_crimson_chair": {
     "criteria": {
       "has_gray_wool": "2025-06-03 05:17:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-06-03 06:02:54 +0000"
     },
     "done": true
   },
