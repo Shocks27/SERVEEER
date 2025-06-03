@@ -1348,3 +1348,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jun2025 03:11:26.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by Warden
 [03Jun2025 03:13:03.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Unusual Prehistory]
 [03Jun2025 03:13:41.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [E G G S]
+[03Jun2025 03:20:22.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Creative Mode]
+[03Jun2025 03:20:31.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Survival Mode]
+[03Jun2025 03:22:27.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has reached the goal [Half a flight]
+[03Jun2025 03:22:47.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has reached the goal [Half a flight]
