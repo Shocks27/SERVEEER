@@ -1391,3 +1391,41 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jun2025 03:58:56.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx left the game
 [03Jun2025 04:03:48.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 fell from a high place
 [03Jun2025 04:03:48.640] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-577, -45, -1759) minecraft:overworld
+[03Jun2025 04:06:10.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 has made the advancement [Odd Looking Rocks]
+[03Jun2025 04:07:13.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Creative Mode]
+[03Jun2025 04:07:24.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Survival Mode]
+[03Jun2025 04:09:02.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 fell from a high place
+[03Jun2025 04:09:02.630] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-439, 66, -2132) minecraft:overworld
+[03Jun2025 04:13:18.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by Vex
+[03Jun2025 04:13:18.667] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-504, 159, -1888) minecraft:overworld
+[03Jun2025 04:19:37.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 has made the advancement [Sneak 100]
+[03Jun2025 04:19:41.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 fell from a high place
+[03Jun2025 04:19:41.531] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-577, -46, -1757) minecraft:overworld
+[03Jun2025 04:21:38.726] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 04:24:25.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Creative Mode]
+[03Jun2025 04:24:29.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Survival Mode]
+[03Jun2025 04:24:58.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 has made the advancement [The Power of the Abyss in the Palm of My Hand...]
+[03Jun2025 04:35:37.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [The Parrots and the Bats]
+[03Jun2025 04:37:17.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[03Jun2025 04:38:20.098] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[03Jun2025 04:38:20.098] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[03Jun2025 04:38:20.098] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[03Jun2025 04:38:20.098] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[03Jun2025 04:38:20.098] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[03Jun2025 04:38:20.099] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[03Jun2025 04:38:20.099] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[03Jun2025 04:38:20.099] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[03Jun2025 04:38:20.099] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[03Jun2025 04:38:20.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Withering Heights]
+[03Jun2025 04:38:31.103] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PandagamerP with unique ID bdd84e22-f614-4c2d-a1eb-d733f7627620
+[03Jun2025 04:38:31.103] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -257 Y: 146 Z: -2154
+[03Jun2025 04:38:31.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP was blown up by Wither
+[03Jun2025 04:38:31.106] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-257, 147, -2154) minecraft:overworld
+[03Jun2025 04:39:04.923] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 04:39:04.923] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 04:39:47.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 has made the advancement [A Seedy Place]
+[03Jun2025 04:45:23.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PandagamerP lost connection: Disconnected
+[03Jun2025 04:45:23.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP left the game
+[03Jun2025 04:57:58.345] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Casti414[/127.38.17.103:51133] logged in with entity id 119437 at (-266.7594685346836, 127.0, -2262.8343249224417)
+[03Jun2025 04:57:58.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 joined the game
+[03Jun2025 04:57:58.413] [Server thread/INFO] [Jade/]: Syncing config to Casti414 (aae11e9d-7958-355d-b6a7-3da8fe09ab5c)

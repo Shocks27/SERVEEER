@@ -209,6 +209,7 @@
       "bread": "2025-05-20 03:44:35 +0000",
       "golden_apple": "2025-05-20 04:38:11 +0000",
       "cookie": "2025-05-20 00:14:05 +0000",
+      "suspicious_stew": "2025-06-03 04:16:44 +0000",
       "melon_slice": "2025-05-20 00:13:00 +0000",
       "golden_carrot": "2025-05-20 05:08:56 +0000",
       "carrot": "2025-05-20 07:36:16 +0000"
@@ -7446,6 +7447,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2025-06-03 05:04:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-06-03 02:17:41 +0000"
@@ -7545,6 +7552,18 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-03 02:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-03 05:04:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-06-03 04:38:20 +0000"
     },
     "done": true
   },
@@ -7767,6 +7786,18 @@
   "minecraft:main/fossil": {
     "criteria": {
       "plant_fossil": "2025-06-03 03:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-03 05:04:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_blue_dye_from_felicia_daisy": {
+    "criteria": {
+      "has_felicia_daisy": "2025-06-03 05:01:51 +0000"
     },
     "done": true
   },
