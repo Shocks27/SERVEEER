@@ -1159,6 +1159,7 @@
       "minecraft:creeper": "2025-05-31 03:33:10 +0000",
       "minecraft:evoker": "2025-05-31 04:54:56 +0000",
       "minecraft:witch": "2025-05-31 01:53:56 +0000",
+      "minecraft:silverfish": "2025-06-03 02:30:16 +0000",
       "minecraft:zombie": "2025-05-26 03:00:58 +0000"
     },
     "done": false
@@ -5936,6 +5937,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-02 00:32:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/brimwood_shrub": {
+    "criteria": {
+      "has_brimwood_sapling": "2025-06-03 02:16:50 +0000"
     },
     "done": true
   },

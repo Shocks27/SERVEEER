@@ -1291,3 +1291,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jun2025 02:10:37.443] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -285 Y: 17 Z: -2221
 [03Jun2025 02:10:37.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx was blown up by Intruder
 [03Jun2025 02:10:37.464] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-284, 17, -2221) minecraft:overworld
+[03Jun2025 02:15:51.379] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Isaaac_173[/127.121.81.23:50433] logged in with entity id 7109 at (-238.97862204482203, 63.231523797587016, -2278.9186567210077)
+[03Jun2025 02:15:51.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 joined the game
+[03Jun2025 02:15:51.503] [Server thread/INFO] [Jade/]: Syncing config to Isaaac_173 (5a9f8102-961e-3d36-ba9a-c7074b3f629e)
+[03Jun2025 02:28:22.660] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:32:19.660] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BgodYT with unique ID c6140c55-2183-4142-9cdd-fa2aeb6c5457
+[03Jun2025 02:32:19.661] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -287 Y: 11 Z: -2243
+[03Jun2025 02:32:19.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT was slain by Silverqueen
+[03Jun2025 02:32:19.667] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-288, 12, -2245) minecraft:overworld
+[03Jun2025 02:33:44.246] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19095, l='ServerLevel[AAAA]', x=-42.50, y=80.00, z=-2144.50]

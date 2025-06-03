@@ -104,34 +104,41 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2025-05-31 03:25:40 +0000",
+      "pine_taiga": "2025-06-03 02:21:18 +0000",
       "ancient_delta": "2025-05-31 03:52:57 +0000",
       "grassy_beach": "2025-05-28 02:59:41 +0000",
       "rocky_meadow": "2025-05-31 03:43:07 +0000",
       "flower_fields": "2025-05-31 03:49:46 +0000",
+      "highland_fields": "2025-06-03 02:21:09 +0000",
       "magnolia_highlands": "2025-05-26 02:42:58 +0000",
       "sparse_redwoods": "2025-05-26 03:00:20 +0000",
       "mountains": "2025-05-31 04:12:35 +0000",
       "deciduous_forest": "2025-05-26 02:26:33 +0000",
       "infernal_holt": "2025-05-31 06:37:10 +0000",
       "bamboo_forest": "2025-05-26 02:41:54 +0000",
+      "temperate_grove": "2025-06-03 02:20:30 +0000",
       "pine_slopes": "2025-05-31 04:12:48 +0000",
       "grassland": "2025-05-26 02:41:07 +0000",
       "prairie": "2025-05-31 04:23:27 +0000",
-      "redwoods": "2025-05-26 02:42:05 +0000"
+      "redwoods": "2025-05-26 02:42:05 +0000",
+      "bioshroom_caves": "2025-06-03 02:21:28 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
       "shrubland": "2025-05-31 03:25:40 +0000",
+      "pine_taiga": "2025-06-03 02:21:18 +0000",
       "grassy_beach": "2025-05-28 02:59:41 +0000",
       "rocky_meadow": "2025-05-31 03:43:07 +0000",
       "flower_fields": "2025-05-31 03:49:46 +0000",
+      "highland_fields": "2025-06-03 02:21:09 +0000",
       "magnolia_highlands": "2025-05-26 02:42:58 +0000",
       "sparse_redwoods": "2025-05-26 03:00:20 +0000",
       "mountains": "2025-05-31 04:12:35 +0000",
       "deciduous_forest": "2025-05-26 02:26:33 +0000",
       "bamboo_forest": "2025-05-26 02:41:54 +0000",
+      "temperate_grove": "2025-06-03 02:20:30 +0000",
       "pine_slopes": "2025-05-31 04:12:48 +0000",
       "grassland": "2025-05-26 02:41:07 +0000",
       "prairie": "2025-05-31 04:23:27 +0000",
@@ -1086,16 +1093,20 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-05-31 04:19:00 +0000",
       "minecraft:sunflower_plains": "2025-05-31 04:22:14 +0000",
+      "minecraft:cherry_grove": "2025-06-03 02:23:59 +0000",
       "minecraft:beach": "2025-05-31 04:21:29 +0000",
       "minecraft:stony_peaks": "2025-05-26 03:00:43 +0000",
       "minecraft:lukewarm_ocean": "2025-05-27 04:24:21 +0000",
       "minecraft:river": "2025-05-31 03:18:49 +0000",
       "minecraft:stony_shore": "2025-05-31 03:49:47 +0000",
+      "minecraft:dripstone_caves": "2025-06-03 02:28:10 +0000",
       "minecraft:jagged_peaks": "2025-05-31 04:18:55 +0000",
+      "minecraft:forest": "2025-06-03 02:23:22 +0000",
       "minecraft:lush_caves": "2025-05-31 03:52:53 +0000",
       "minecraft:ocean": "2025-05-31 04:21:10 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-28 02:28:49 +0000",
       "minecraft:flower_forest": "2025-05-31 03:29:45 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-03 02:22:39 +0000",
       "minecraft:meadow": "2025-05-31 04:19:04 +0000",
       "minecraft:savanna": "2025-05-31 04:21:35 +0000",
       "minecraft:plains": "2025-05-31 03:28:25 +0000"
@@ -5596,6 +5607,7 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
+      "bioshroom_caves": "2025-06-03 02:21:28 +0000",
       "ancient_delta": "2025-05-31 03:52:57 +0000"
     },
     "done": false
@@ -5945,6 +5957,108 @@
   "regions_unexplored:downer": {
     "criteria": {
       "dorcel": "2025-05-31 06:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-03 02:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-03 02:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-03 02:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-03 02:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-03 02:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-03 02:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-03 02:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-03 02:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-03 02:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-03 02:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-03 02:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-03 02:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-03 02:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-03 02:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-03 02:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-06-03 02:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-03 02:25:01 +0000"
     },
     "done": true
   },
