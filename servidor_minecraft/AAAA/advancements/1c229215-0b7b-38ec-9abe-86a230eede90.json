@@ -111,6 +111,7 @@
       "grassy_beach": "2025-05-28 02:59:41 +0000",
       "scorching_caves": "2025-06-03 02:40:27 +0000",
       "rocky_meadow": "2025-05-31 03:43:07 +0000",
+      "mycotoxic_undergrowth": "2025-06-03 03:27:41 +0000",
       "flower_fields": "2025-05-31 03:49:46 +0000",
       "highland_fields": "2025-06-03 02:21:09 +0000",
       "maple_forest": "2025-06-03 02:42:16 +0000",
@@ -1129,8 +1130,11 @@
       "minecraft:ravager": "2025-05-31 04:49:06 +0000",
       "minecraft:vindicator": "2025-05-31 04:40:32 +0000",
       "minecraft:spider": "2025-05-26 03:15:11 +0000",
+      "minecraft:piglin_brute": "2025-06-03 03:30:23 +0000",
       "minecraft:creeper": "2025-05-31 05:18:27 +0000",
       "minecraft:evoker": "2025-05-31 04:56:53 +0000",
+      "minecraft:wither_skeleton": "2025-06-03 03:41:25 +0000",
+      "minecraft:piglin": "2025-06-03 03:37:54 +0000",
       "minecraft:enderman": "2025-05-26 03:22:50 +0000",
       "minecraft:silverfish": "2025-05-31 02:19:14 +0000",
       "minecraft:vex": "2025-05-31 04:57:15 +0000",
@@ -5943,6 +5947,7 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
+      "mycotoxic_undergrowth": "2025-06-03 03:27:41 +0000",
       "infernal_holt": "2025-05-31 06:37:10 +0000"
     },
     "done": false
@@ -5971,6 +5976,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-03 03:33:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:main/cultivator": {
     "criteria": {
       "cultivator": "2025-06-03 03:11:15 +0000"
@@ -5986,6 +5997,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks": {
     "criteria": {
       "has_polished_deepslate": "2025-06-03 02:25:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_iron_bars": "2025-06-03 03:44:30 +0000"
     },
     "done": true
   },
@@ -6025,6 +6042,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-03 03:33:23 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/maple_button": {
     "criteria": {
       "has_maple_planks": "2025-06-03 02:34:10 +0000"
@@ -6043,9 +6066,33 @@
     },
     "done": true
   },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-06-03 03:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-03 03:33:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2025-06-03 03:32:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-03 02:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-03 03:35:38 +0000"
     },
     "done": true
   },
@@ -6061,15 +6108,51 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-06-03 03:31:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-06-03 02:11:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-03 03:33:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-03 03:35:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-06-03 03:07:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-03 03:33:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-06-03 03:43:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2025-06-03 03:49:10 +0000"
     },
     "done": true
   },
@@ -6097,6 +6180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-03 03:35:38 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/maple_trapdoor": {
     "criteria": {
       "has_maple_planks": "2025-06-03 02:34:10 +0000"
@@ -6121,9 +6210,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-06-03 03:31:45 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/paper_wall": {
     "criteria": {
       "has_bamboo": "2025-06-03 03:06:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-06-03 03:44:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-03 03:33:23 +0000"
     },
     "done": true
   },
@@ -6145,9 +6252,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-03 03:35:38 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
     "criteria": {
       "has_raw_redstone_block": "2025-06-03 03:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-03 03:35:38 +0000"
     },
     "done": true
   },
@@ -6160,6 +6279,12 @@
   "regions_unexplored:recipes/building_blocks/maple_planks": {
     "criteria": {
       "has_logs": "2025-06-03 02:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-03 03:35:38 +0000"
     },
     "done": true
   },
@@ -6181,15 +6306,33 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2025-06-03 03:22:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-06-03 03:07:32 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-03 03:35:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-03 02:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-03 03:35:38 +0000"
     },
     "done": true
   },
@@ -6205,6 +6348,18 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-03 03:49:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-03 03:33:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-03 02:25:01 +0000"
@@ -6214,6 +6369,24 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-06-03 02:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-03 03:35:38 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2025-06-03 03:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-06-03 03:31:13 +0000"
     },
     "done": true
   },
@@ -6247,9 +6420,21 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2025-06-03 03:31:46 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/ashen_dirt_from_silt_dirt": {
     "criteria": {
       "has_ash": "2025-06-03 02:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-03 03:49:10 +0000"
     },
     "done": true
   },

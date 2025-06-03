@@ -106,6 +106,7 @@
       "frozen_tundra": "2025-05-20 06:48:33 +0000",
       "poppy_fields": "2025-05-21 05:33:29 +0000",
       "grassy_beach": "2025-05-20 03:29:13 +0000",
+      "scorching_caves": "2025-06-03 03:36:19 +0000",
       "rocky_meadow": "2025-05-20 02:58:34 +0000",
       "blackwood_taiga": "2025-05-21 06:16:38 +0000",
       "mycotoxic_undergrowth": "2025-05-26 02:59:36 +0000",
@@ -115,6 +116,7 @@
       "frozen_pine_taiga": "2025-05-20 07:18:18 +0000",
       "magnolia_highlands": "2025-05-19 06:16:03 +0000",
       "sparse_redwoods": "2025-05-20 02:16:00 +0000",
+      "mountains": "2025-06-03 03:54:48 +0000",
       "deciduous_forest": "2025-05-19 06:12:42 +0000",
       "boreal_forest": "2025-05-20 03:10:45 +0000",
       "glistering_meadow": "2025-05-26 03:01:32 +0000",
@@ -124,6 +126,7 @@
       "temperate_grove": "2025-05-20 02:51:36 +0000",
       "cold_river": "2025-05-20 07:38:11 +0000",
       "pumpkin_fields": "2025-05-20 07:38:20 +0000",
+      "pine_slopes": "2025-06-03 03:54:42 +0000",
       "grassland": "2025-05-19 06:14:34 +0000",
       "prairie": "2025-05-21 06:26:36 +0000",
       "gravel_beach": "2025-05-20 06:46:10 +0000",
@@ -158,6 +161,7 @@
       "frozen_pine_taiga": "2025-05-20 07:18:18 +0000",
       "magnolia_highlands": "2025-05-19 06:16:03 +0000",
       "sparse_redwoods": "2025-05-20 02:16:00 +0000",
+      "mountains": "2025-06-03 03:54:48 +0000",
       "deciduous_forest": "2025-05-19 06:12:42 +0000",
       "boreal_forest": "2025-05-20 03:10:45 +0000",
       "chalk_cliffs": "2025-05-20 01:57:18 +0000",
@@ -165,6 +169,7 @@
       "temperate_grove": "2025-05-20 02:51:36 +0000",
       "cold_river": "2025-05-20 07:38:11 +0000",
       "pumpkin_fields": "2025-05-20 07:38:20 +0000",
+      "pine_slopes": "2025-06-03 03:54:42 +0000",
       "grassland": "2025-05-19 06:14:34 +0000",
       "prairie": "2025-05-21 06:26:36 +0000",
       "gravel_beach": "2025-05-20 06:46:10 +0000",
@@ -1872,7 +1877,8 @@
     "criteria": {
       "magnolia_log": "2025-05-19 06:26:13 +0000",
       "brimwood_log": "2025-05-30 03:35:55 +0000",
-      "redwood_log": "2025-05-19 06:22:05 +0000"
+      "redwood_log": "2025-05-19 06:22:05 +0000",
+      "maple_log": "2025-06-03 03:51:01 +0000"
     },
     "done": false
   },
@@ -4031,6 +4037,7 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
+      "scorching_caves": "2025-06-03 03:36:19 +0000",
       "bioshroom_caves": "2025-05-20 03:34:45 +0000"
     },
     "done": false
@@ -7427,6 +7434,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
+    "criteria": {
+      "has_log": "2025-06-03 03:51:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 02:17:41 +0000"
@@ -7505,6 +7518,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-06-03 03:51:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
+    "criteria": {
+      "has_daisy": "2025-06-03 03:54:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-03 03:15:07 +0000"
@@ -7541,6 +7566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-03 03:47:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-03 03:15:07 +0000"
@@ -7574,6 +7605,12 @@
   "regions_unexplored:recipes/building_blocks/maple_slab": {
     "criteria": {
       "has_maple_planks": "2025-06-03 02:39:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-06-03 03:51:01 +0000"
     },
     "done": true
   },
@@ -7679,6 +7716,24 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/red_maple_shrub": {
+    "criteria": {
+      "has_red_maple_sapling": "2025-06-03 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_shovel_repairing": {
+    "criteria": {
+      "has_wooden_shovel": "2025-06-03 03:51:32 +0000"
+    },
+    "done": true
+  },
+  "beautify:candelabras": {
+    "criteria": {
+      "requirement": "2025-06-03 03:47:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-03 02:44:53 +0000"
@@ -7706,6 +7761,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-03 02:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/fossil": {
+    "criteria": {
+      "plant_fossil": "2025-06-03 03:26:31 +0000"
     },
     "done": true
   },
