@@ -1494,3 +1494,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jun2025 06:22:26.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 left the game
 [03Jun2025 06:24:01.099] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BgodYT lost connection: Disconnected
 [03Jun2025 06:24:01.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT left the game
+[03Jun2025 06:31:04.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MICHE019 lost connection: Disconnected
+[03Jun2025 06:31:04.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 left the game
