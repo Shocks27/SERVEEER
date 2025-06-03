@@ -1300,3 +1300,51 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jun2025 02:32:19.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT was slain by Silverqueen
 [03Jun2025 02:32:19.667] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-288, 12, -2245) minecraft:overworld
 [03Jun2025 02:33:44.246] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19095, l='ServerLevel[AAAA]', x=-42.50, y=80.00, z=-2144.50]
+[03Jun2025 02:35:28.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has reached the goal [A Metropolis of Restless Souls]
+[03Jun2025 02:35:38.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Sneak 100]
+[03Jun2025 02:36:42.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT fell from a high place
+[03Jun2025 02:36:42.061] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-288, 55, -2221) minecraft:overworld
+[03Jun2025 02:37:56.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was obliterated by a sonically-charged shriek
+[03Jun2025 02:37:56.254] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-275, -50, -2198) minecraft:overworld
+[03Jun2025 02:46:09.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by Warden
+[03Jun2025 02:46:09.811] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-276, -39, -2199) minecraft:overworld
+[03Jun2025 02:47:00.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 fell from a high place
+[03Jun2025 02:55:04.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Sneak 100]
+[03Jun2025 02:56:08.418] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Isaaac_173 with unique ID eb429df6-8c2f-42a7-8e7f-8f876e02bbdd
+[03Jun2025 02:56:08.419] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -274 Y: -38 Z: -2199
+[03Jun2025 02:56:08.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 fell from a high place
+[03Jun2025 02:56:08.422] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-276, -39, -2200) minecraft:overworld
+[03Jun2025 02:56:31.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by Zombie
+[03Jun2025 02:58:04.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 drowned
+[03Jun2025 02:59:08.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by Warden
+[03Jun2025 02:59:08.710] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-274, -50, -2196) minecraft:overworld
+[03Jun2025 03:00:19.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was obliterated by a sonically-charged shriek
+[03Jun2025 03:00:19.166] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-275, -38, -2199) minecraft:overworld
+[03Jun2025 03:03:12.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Isaaac_173 moved too quickly! 0.014127956571940103,-10.006437311899255,0.0541298106618342
+[03Jun2025 03:04:07.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by Warden
+[03Jun2025 03:04:07.514] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-272, -38, -2201) minecraft:overworld
+[03Jun2025 03:04:57.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by Warden
+[03Jun2025 03:04:57.162] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-275, -38, -2200) minecraft:overworld
+[03Jun2025 03:06:35.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Creative Mode]
+[03Jun2025 03:06:43.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Survival Mode]
+[03Jun2025 03:06:45.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by Warden
+[03Jun2025 03:06:45.262] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-276, -51, -2202) minecraft:overworld
+[03Jun2025 03:07:11.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was doomed to fall by Warden
+[03Jun2025 03:07:11.335] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-260, -51, -2195) minecraft:overworld
+[03Jun2025 03:07:48.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was obliterated by a sonically-charged shriek
+[03Jun2025 03:08:19.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was obliterated by a sonically-charged shriek
+[03Jun2025 03:08:19.707] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-280, -51, -2202) minecraft:overworld
+[03Jun2025 03:08:52.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was obliterated by a sonically-charged shriek
+[03Jun2025 03:08:52.705] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-266, -50, -2199) minecraft:overworld
+[03Jun2025 03:09:22.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was doomed to fall by Warden
+[03Jun2025 03:09:22.516] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-279, -51, -2202) minecraft:overworld
+[03Jun2025 03:09:44.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was obliterated by a sonically-charged shriek
+[03Jun2025 03:10:37.458] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Isaaac_173 with unique ID d7450e5e-0452-4145-a9c8-d36338cb989c
+[03Jun2025 03:10:37.459] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -281 Y: -50 Z: -2147
+[03Jun2025 03:10:37.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was obliterated by a sonically-charged shriek
+[03Jun2025 03:10:37.460] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-282, -51, -2148) minecraft:overworld
+[03Jun2025 03:11:12.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by Warden
+[03Jun2025 03:11:15.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Its Time to Cook Jesse]
+[03Jun2025 03:11:26.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by Warden
+[03Jun2025 03:13:03.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Unusual Prehistory]
+[03Jun2025 03:13:41.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [E G G S]

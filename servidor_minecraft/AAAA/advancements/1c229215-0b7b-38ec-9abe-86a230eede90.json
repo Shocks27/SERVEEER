@@ -105,15 +105,20 @@
     "criteria": {
       "shrubland": "2025-05-31 03:25:40 +0000",
       "pine_taiga": "2025-06-03 02:21:18 +0000",
+      "autumnal_maple_forest": "2025-06-03 02:39:59 +0000",
       "ancient_delta": "2025-05-31 03:52:57 +0000",
+      "redstone_caves": "2025-06-03 03:00:44 +0000",
       "grassy_beach": "2025-05-28 02:59:41 +0000",
+      "scorching_caves": "2025-06-03 02:40:27 +0000",
       "rocky_meadow": "2025-05-31 03:43:07 +0000",
       "flower_fields": "2025-05-31 03:49:46 +0000",
       "highland_fields": "2025-06-03 02:21:09 +0000",
+      "maple_forest": "2025-06-03 02:42:16 +0000",
       "magnolia_highlands": "2025-05-26 02:42:58 +0000",
       "sparse_redwoods": "2025-05-26 03:00:20 +0000",
       "mountains": "2025-05-31 04:12:35 +0000",
       "deciduous_forest": "2025-05-26 02:26:33 +0000",
+      "boreal_forest": "2025-06-03 02:53:27 +0000",
       "infernal_holt": "2025-05-31 06:37:10 +0000",
       "bamboo_forest": "2025-05-26 02:41:54 +0000",
       "temperate_grove": "2025-06-03 02:20:30 +0000",
@@ -129,14 +134,17 @@
     "criteria": {
       "shrubland": "2025-05-31 03:25:40 +0000",
       "pine_taiga": "2025-06-03 02:21:18 +0000",
+      "autumnal_maple_forest": "2025-06-03 02:39:59 +0000",
       "grassy_beach": "2025-05-28 02:59:41 +0000",
       "rocky_meadow": "2025-05-31 03:43:07 +0000",
       "flower_fields": "2025-05-31 03:49:46 +0000",
       "highland_fields": "2025-06-03 02:21:09 +0000",
+      "maple_forest": "2025-06-03 02:42:16 +0000",
       "magnolia_highlands": "2025-05-26 02:42:58 +0000",
       "sparse_redwoods": "2025-05-26 03:00:20 +0000",
       "mountains": "2025-05-31 04:12:35 +0000",
       "deciduous_forest": "2025-05-26 02:26:33 +0000",
+      "boreal_forest": "2025-06-03 02:53:27 +0000",
       "bamboo_forest": "2025-05-26 02:41:54 +0000",
       "temperate_grove": "2025-06-03 02:20:30 +0000",
       "pine_slopes": "2025-05-31 04:12:48 +0000",
@@ -864,7 +872,8 @@
     "criteria": {
       "brimwood_log": "2025-05-31 06:38:33 +0000",
       "small_oak_log": "2025-05-26 02:37:13 +0000",
-      "redwood_log": "2025-05-26 02:57:35 +0000"
+      "redwood_log": "2025-05-26 02:57:35 +0000",
+      "maple_log": "2025-06-03 02:34:06 +0000"
     },
     "done": false
   },
@@ -5607,6 +5616,8 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
+      "redstone_caves": "2025-06-03 03:00:44 +0000",
+      "scorching_caves": "2025-06-03 02:40:27 +0000",
       "bioshroom_caves": "2025-06-03 02:21:28 +0000",
       "ancient_delta": "2025-05-31 03:52:57 +0000"
     },
@@ -5972,9 +5983,45 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_maple_planks": "2025-06-03 02:34:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab": {
     "criteria": {
       "has_polished_deepslate": "2025-06-03 02:25:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ashen_dirt_from_dirt": {
+    "criteria": {
+      "has_ash": "2025-06-03 02:56:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_maple_planks": "2025-06-03 02:34:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_maple_planks": "2025-06-03 02:34:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_maple_planks": "2025-06-03 02:34:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
+    "criteria": {
+      "has_log": "2025-06-03 02:34:06 +0000"
     },
     "done": true
   },
@@ -5984,9 +6031,39 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-06-03 03:00:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-06-03 02:34:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-06-03 02:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-06-03 03:07:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_maple_planks": "2025-06-03 02:34:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ashen_dirt_from_peat_dirt": {
+    "criteria": {
+      "has_ash": "2025-06-03 02:56:51 +0000"
     },
     "done": true
   },
@@ -6002,9 +6079,39 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_maple_planks": "2025-06-03 02:34:10 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2025-06-03 03:06:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2025-06-03 02:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-06-03 03:06:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/paper_wall": {
+    "criteria": {
+      "has_bamboo": "2025-06-03 03:06:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_maple_planks": "2025-06-03 02:34:10 +0000"
     },
     "done": true
   },
@@ -6020,15 +6127,45 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-06-03 03:00:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_maple_planks": "2025-06-03 02:34:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-06-03 02:34:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-03 02:25:01 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_maple_planks": "2025-06-03 02:34:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-03 02:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-06-03 03:07:32 +0000"
     },
     "done": true
   },
@@ -6044,9 +6181,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-03 03:07:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-03 02:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-06-03 02:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-06-03 03:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-06-03 03:06:04 +0000"
     },
     "done": true
   },
@@ -6059,6 +6220,18 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-03 02:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-06-03 03:06:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ashen_dirt_from_silt_dirt": {
+    "criteria": {
+      "has_ash": "2025-06-03 02:56:51 +0000"
     },
     "done": true
   },

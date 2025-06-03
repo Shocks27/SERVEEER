@@ -109,14 +109,17 @@
       "ancient_delta": "2025-05-30 18:56:18 +0000",
       "redstone_caves": "2025-05-30 19:12:29 +0000",
       "grassy_beach": "2025-05-31 03:19:29 +0000",
+      "scorching_caves": "2025-06-03 02:40:22 +0000",
       "rocky_meadow": "2025-05-31 03:41:50 +0000",
       "mycotoxic_undergrowth": "2025-06-01 23:58:38 +0000",
       "ochard": "2025-05-31 01:42:26 +0000",
       "highland_fields": "2025-05-31 04:04:45 +0000",
+      "maple_forest": "2025-06-03 02:42:03 +0000",
       "magnolia_highlands": "2025-05-26 02:55:30 +0000",
       "sparse_redwoods": "2025-05-26 03:00:19 +0000",
       "mountains": "2025-05-31 04:11:12 +0000",
       "deciduous_forest": "2025-05-26 02:44:22 +0000",
+      "boreal_forest": "2025-06-03 02:53:11 +0000",
       "temperate_grove": "2025-06-02 00:06:11 +0000",
       "cold_river": "2025-05-31 04:06:59 +0000",
       "pine_slopes": "2025-05-31 04:11:04 +0000",
@@ -136,10 +139,12 @@
       "rocky_meadow": "2025-05-31 03:41:50 +0000",
       "ochard": "2025-05-31 01:42:26 +0000",
       "highland_fields": "2025-05-31 04:04:45 +0000",
+      "maple_forest": "2025-06-03 02:42:03 +0000",
       "magnolia_highlands": "2025-05-26 02:55:30 +0000",
       "sparse_redwoods": "2025-05-26 03:00:19 +0000",
       "mountains": "2025-05-31 04:11:12 +0000",
       "deciduous_forest": "2025-05-26 02:44:22 +0000",
+      "boreal_forest": "2025-06-03 02:53:11 +0000",
       "temperate_grove": "2025-06-02 00:06:11 +0000",
       "cold_river": "2025-05-31 04:06:59 +0000",
       "pine_slopes": "2025-05-31 04:11:04 +0000",
@@ -4657,6 +4662,7 @@
   "regions_unexplored:spelunker": {
     "criteria": {
       "redstone_caves": "2025-05-30 19:12:29 +0000",
+      "scorching_caves": "2025-06-03 02:40:22 +0000",
       "bioshroom_caves": "2025-05-31 04:05:05 +0000",
       "ancient_delta": "2025-05-30 18:56:18 +0000"
     },
@@ -5940,15 +5946,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-03 02:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-03 03:02:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-03 03:02:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-03 02:41:03 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2025-06-03 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/paper_wall": {
+    "criteria": {
+      "has_bamboo": "2025-06-03 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-06-03 03:00:13 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/brimwood_shrub": {
     "criteria": {
       "has_brimwood_sapling": "2025-06-03 02:16:50 +0000"
     },
     "done": true
   },
+  "immersive_paintings:misc/glow_painting": {
+    "criteria": {
+      "has_item": "2025-06-03 03:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-06-03 02:08:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-06-03 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-06-03 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-06-03 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-03 03:02:30 +0000"
     },
     "done": true
   },
