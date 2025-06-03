@@ -11302,15 +11302,117 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/birch_cabinet": {
+  "minecraft:recipes/misc/coal": {
     "criteria": {
-      "has_planks": "2025-06-02 00:02:32 +0000"
+      "has_coal_block": "2025-06-01 22:25:00 +0000"
     },
     "done": true
   },
-  "naturalist:recipes/food/cake": {
+  "dungeons_arise:find_bathhouse": {
     "criteria": {
-      "has_the_recipe": "2025-06-02 00:07:59 +0000"
+      "location0": "2025-06-01 22:27:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_acacia_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_birch_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_dark_oak_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_warped_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_oak_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_jungle_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_cherry_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_spruce_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_mangrove_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_crimson_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/crab_meat_from_smoking": {
+    "criteria": {
+      "crab_meat": "2025-06-01 23:21:08 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/crab_meat_from_campfire_cooking": {
+    "criteria": {
+      "crab_meat": "2025-06-01 23:21:08 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/crab_meat": {
+    "criteria": {
+      "crab_meat": "2025-06-01 23:21:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/silver_birch_branch_from_silver_birch_log": {
+    "criteria": {
+      "has_log": "2025-06-02 00:00:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-06-02 00:00:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silver_birch_wood": {
+    "criteria": {
+      "has_log": "2025-06-02 00:00:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_planks": "2025-06-02 00:02:32 +0000"
     },
     "done": true
   },
@@ -11329,18 +11431,6 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-06-02 00:02:32 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_acacia_table": {
-    "criteria": {
-      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/crab_meat_from_smoking": {
-    "criteria": {
-      "crab_meat": "2025-06-01 23:21:08 +0000"
     },
     "done": true
   },
@@ -11380,12 +11470,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-06-01 22:25:00 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/pink_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-06-02 00:02:32 +0000"
@@ -11401,12 +11485,6 @@
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-06-02 00:02:32 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/crab_meat_from_campfire_cooking": {
-    "criteria": {
-      "crab_meat": "2025-06-01 23:21:08 +0000"
     },
     "done": true
   },
@@ -11434,12 +11512,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/silver_birch_branch_from_silver_birch_log": {
-    "criteria": {
-      "has_log": "2025-06-02 00:00:59 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/lime_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-06-02 00:02:32 +0000"
@@ -11461,12 +11533,6 @@
   "valhelsia_furniture:recipes/decorations/black_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-06-02 00:02:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-06-02 00:00:59 +0000"
     },
     "done": true
   },
@@ -11506,27 +11572,9 @@
     },
     "done": true
   },
-  "ecologics:recipes/ecologics/crab_meat": {
-    "criteria": {
-      "crab_meat": "2025-06-01 23:21:08 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_birch_table": {
-    "criteria": {
-      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/birch_coffee_table": {
     "criteria": {
       "has_planks": "2025-06-02 00:02:32 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_dark_oak_table": {
-    "criteria": {
-      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
     },
     "done": true
   },
@@ -11545,12 +11593,6 @@
   "valhelsia_furniture:recipes/decorations/birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-06-02 00:02:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-06-02 00:07:59 +0000"
     },
     "done": true
   },
@@ -11596,12 +11638,6 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/gray_warped_table": {
-    "criteria": {
-      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/birch_table": {
     "criteria": {
       "has_birch_planks": "2025-06-02 00:02:32 +0000"
@@ -11614,12 +11650,6 @@
     },
     "done": true
   },
-  "aether:recipes/food/skyroot_milk_bucket_cake": {
-    "criteria": {
-      "has_egg": "2025-06-02 00:07:59 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/black_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-06-02 00:02:32 +0000"
@@ -11629,18 +11659,6 @@
   "valhelsia_furniture:recipes/decorations/orange_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-06-02 00:02:32 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_oak_table": {
-    "criteria": {
-      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_jungle_table": {
-    "criteria": {
-      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
     },
     "done": true
   },
@@ -11662,18 +11680,6 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/gray_cherry_table": {
-    "criteria": {
-      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_bathhouse": {
-    "criteria": {
-      "location0": "2025-06-01 22:27:32 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/birch_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-06-02 00:02:32 +0000"
@@ -11683,12 +11689,6 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-02 00:02:32 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/silver_birch_wood": {
-    "criteria": {
-      "has_log": "2025-06-02 00:00:59 +0000"
     },
     "done": true
   },
@@ -11704,21 +11704,21 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/gray_spruce_table": {
+  "naturalist:recipes/food/cake": {
     "criteria": {
-      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
+      "has_the_recipe": "2025-06-02 00:07:59 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/gray_mangrove_table": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
+      "has_egg": "2025-06-02 00:07:59 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/gray_crimson_table": {
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
     "criteria": {
-      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
+      "has_egg": "2025-06-02 00:07:59 +0000"
     },
     "done": true
   },
