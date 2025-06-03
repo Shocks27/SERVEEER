@@ -1489,3 +1489,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jun2025 05:57:30.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has reached the goal [Hunted]
 [03Jun2025 06:12:23.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Arcane Empowerment]
 [03Jun2025 06:17:52.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Casti414> [name:"Palacio de Hacki Tricki", x:-266, y:127, z:-2267, dim:minecraft:overworld]
+[03Jun2025 06:21:08.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 has made the advancement [Cover Me with Diamonds]
+[03Jun2025 06:22:26.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Casti414 lost connection: Disconnected
+[03Jun2025 06:22:26.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 left the game
+[03Jun2025 06:24:01.099] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BgodYT lost connection: Disconnected
+[03Jun2025 06:24:01.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT left the game

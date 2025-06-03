@@ -3762,6 +3762,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-06-03 06:21:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-03 04:09:24 +0000"
@@ -4164,6 +4170,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-06-03 06:21:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_sofa": {
     "criteria": {
       "has_wool": "2025-06-03 05:17:53 +0000"
@@ -4392,6 +4404,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-06-03 06:21:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-06-03 04:11:49 +0000"
@@ -4419,6 +4437,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-03 04:09:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2025-06-03 06:21:14 +0000"
     },
     "done": true
   },
@@ -4719,6 +4743,12 @@
   "valhelsia_furniture:recipes/decorations/gray_crimson_chair": {
     "criteria": {
       "has_gray_wool": "2025-06-03 05:17:53 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-06-03 06:21:10 +0000"
     },
     "done": true
   },
