@@ -1476,3 +1476,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jun2025 05:17:15.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=128, z=-2194} BlockPos{x=-171, y=128, z=-2193}
 [03Jun2025 05:17:15.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=128, z=-2194} BlockPos{x=-171, y=128, z=-2193}
 [03Jun2025 05:17:15.143] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=128, z=-2194} BlockPos{x=-171, y=128, z=-2193}
+[03Jun2025 05:17:35.038] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=128, z=-2203} BlockPos{x=-170, y=128, z=-2204}
+[03Jun2025 05:17:35.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03Jun2025 05:17:35.112] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=129, z=-2203} BlockPos{x=-170, y=128, z=-2204}
+[03Jun2025 05:17:39.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isaaac_173) moved wrongly! 0.40360851723153246
+[03Jun2025 05:17:39.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isaaac_173) moved wrongly! 0.8850858129474091
+[03Jun2025 05:17:39.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isaaac_173) moved wrongly! 0.3666709211970556
+[03Jun2025 05:17:39.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isaaac_173) moved wrongly! 0.8483137177838671
+[03Jun2025 05:22:37.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 has made the advancement [What a Deal!]
+[03Jun2025 05:23:46.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Isaaac_173 lost connection: Disconnected
+[03Jun2025 05:23:46.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 left the game

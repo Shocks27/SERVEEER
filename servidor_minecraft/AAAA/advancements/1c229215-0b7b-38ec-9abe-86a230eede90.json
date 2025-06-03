@@ -6654,6 +6654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-03 05:25:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wolf_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-06-03 04:41:37 +0000"
@@ -7197,6 +7203,12 @@
   "minecraft:recipes/tools/spider_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-06-03 04:41:37 +0000"
+    },
+    "done": true
+  },
+  "beautify:candelabras": {
+    "criteria": {
+      "requirement": "2025-06-03 05:25:50 +0000"
     },
     "done": true
   },
