@@ -9877,11 +9877,59 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "regions_unexplored:recipes/decorations/maple_fence": {
     "criteria": {
-      "requirement": "2025-06-03 05:25:52 +0000"
+      "has_maple_planks": "2025-06-03 05:39:02 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_maple_planks": "2025-06-03 05:39:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_maple_planks": "2025-06-03 05:39:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_maple_planks": "2025-06-03 05:39:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_maple_planks": "2025-06-03 05:39:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_maple_planks": "2025-06-03 05:39:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_maple_planks": "2025-06-03 05:39:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_maple_planks": "2025-06-03 05:39:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_maple_planks": "2025-06-03 05:39:02 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
