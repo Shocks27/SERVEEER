@@ -3661,6 +3661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-03 05:11:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-06-03 04:13:30 +0000"
@@ -3694,6 +3700,12 @@
   "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-06-03 04:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-03 05:11:56 +0000"
     },
     "done": true
   },
@@ -3823,6 +3835,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-03 05:13:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-06-03 04:47:04 +0000"
@@ -3907,6 +3925,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2025-06-03 05:11:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-03 04:11:38 +0000"
@@ -3934,6 +3958,18 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-06-03 04:11:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2025-06-03 05:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-03 05:11:56 +0000"
     },
     "done": true
   },
@@ -3976,6 +4012,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-03 04:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-03 05:11:56 +0000"
     },
     "done": true
   },
@@ -4024,6 +4066,18 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-03 04:11:38 +0000"
+    },
+    "done": true
+  },
+  "beautify:bookstack": {
+    "criteria": {
+      "requirement": "2025-06-03 05:11:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-03 05:11:56 +0000"
     },
     "done": true
   },
@@ -4150,6 +4204,12 @@
   "aether:recipes/combat/chainmail_leggings_repairing": {
     "criteria": {
       "has_chainmail_leggings": "2025-06-03 04:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-06-03 05:13:37 +0000"
     },
     "done": true
   },
