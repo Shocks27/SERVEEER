@@ -1296,3 +1296,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jun2025 03:12:49.711] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PandagamerP[/127.74.19.90:36223] logged in with entity id 10156 at (-368.4609635224903, 207.0, -2199.8095067809536)
 [04Jun2025 03:12:49.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP joined the game
 [04Jun2025 03:12:49.797] [Server thread/INFO] [Jade/]: Syncing config to PandagamerP (585e6dc8-df73-3ccd-9607-c3110a1f71b6)
+[04Jun2025 03:18:20.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Creative Mode]
+[04Jun2025 03:18:34.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Survival Mode]
+[04Jun2025 03:18:34.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Creative Mode]
+[04Jun2025 03:18:57.114] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xZ3r0kx[/127.56.156.83:50459] logged in with entity id 11676 at (-970.6414820085719, 81.0, -741.4989870204645)
+[04Jun2025 03:18:57.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx joined the game
+[04Jun2025 03:18:57.197] [Server thread/INFO] [Jade/]: Syncing config to xZ3r0kx (b262c7ac-a841-3c17-86a8-5600b971dc2c)
+[04Jun2025 03:19:14.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Successfully filled 69 block(s)]
+[04Jun2025 03:19:29.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Survival Mode]
+[04Jun2025 03:20:09.678] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BgodYT[/127.55.194.191:49083] logged in with entity id 12331 at (-958.7825074547578, 76.0, -741.8239931731013)
+[04Jun2025 03:20:09.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT joined the game
+[04Jun2025 03:20:09.826] [Server thread/INFO] [Jade/]: Syncing config to BgodYT (1c229215-0b7b-38ec-9abe-86a230eede90)
