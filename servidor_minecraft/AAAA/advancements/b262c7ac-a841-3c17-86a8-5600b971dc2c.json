@@ -987,6 +987,7 @@
       "potato": "2025-05-31 01:20:34 +0000",
       "cooked_cod": "2025-05-27 04:25:44 +0000",
       "bread": "2025-05-26 02:56:28 +0000",
+      "golden_apple": "2025-06-04 19:00:45 +0000",
       "rotten_flesh": "2025-05-26 02:53:18 +0000",
       "dried_kelp": "2025-05-27 04:29:18 +0000",
       "melon_slice": "2025-05-30 16:42:35 +0000",
@@ -1150,6 +1151,7 @@
       "minecraft:flower_forest": "2025-05-31 03:29:19 +0000",
       "minecraft:frozen_peaks": "2025-05-31 04:06:15 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-31 04:06:06 +0000",
+      "minecraft:deep_dark": "2025-06-04 19:06:05 +0000",
       "minecraft:meadow": "2025-05-31 04:06:50 +0000",
       "minecraft:plains": "2025-05-31 03:27:52 +0000"
     },
@@ -6358,6 +6360,30 @@
   "cfm:recipes/decorations/oak_hedge": {
     "criteria": {
       "has_leaves": "2025-06-04 03:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-06-04 18:59:14 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/clockwork_crossbow": {
+    "criteria": {
+      "requirement2": "2025-06-04 19:00:48 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-06-04 19:06:05 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_clockwork_crossbow": {
+    "criteria": {
+      "requirement2": "2025-06-04 19:00:48 +0000"
     },
     "done": true
   },
