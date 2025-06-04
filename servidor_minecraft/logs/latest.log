@@ -1516,3 +1516,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jun2025 23:37:27.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/150935, l='ServerLevel[AAAA]', x=-463.42, y=29.00, z=-425.96] died: Toxic Slime fell from a high place
 [04Jun2025 23:37:49.040] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/152026, l='ServerLevel[AAAA]', x=-398.62, y=54.00, z=-372.34] died: Toxic Slime fell from a high place
 [04Jun2025 23:43:24.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [A Terrible Fortress]
+[04Jun2025 23:49:04.847] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/167121, l='ServerLevel[AAAA]', x=-513.72, y=76.00, z=-60.98] died: Toxic Slime fell from a high place
+[04Jun2025 23:54:14.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-451, y=16, z=-349} BlockPos{x=-449, y=16, z=-349}
+[04Jun2025 23:54:14.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-447, y=16, z=-350} BlockPos{x=-449, y=16, z=-349}

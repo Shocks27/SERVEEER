@@ -121,6 +121,7 @@
       "mountains": "2025-05-31 04:12:35 +0000",
       "deciduous_forest": "2025-05-26 02:26:33 +0000",
       "boreal_forest": "2025-06-03 02:53:27 +0000",
+      "glistering_meadow": "2025-06-04 23:42:09 +0000",
       "infernal_holt": "2025-05-31 06:37:10 +0000",
       "bamboo_forest": "2025-05-26 02:41:54 +0000",
       "temperate_grove": "2025-06-03 02:20:30 +0000",
@@ -5953,7 +5954,8 @@
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "mycotoxic_undergrowth": "2025-06-03 03:27:41 +0000",
-      "infernal_holt": "2025-05-31 06:37:10 +0000"
+      "infernal_holt": "2025-05-31 06:37:10 +0000",
+      "glistering_meadow": "2025-06-04 23:42:09 +0000"
     },
     "done": false
   },
@@ -7397,6 +7399,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-04 23:43:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-04 22:21:08 +0000"
@@ -7414,6 +7422,12 @@
       "has_netherite_ingot": "2025-06-04 22:21:08 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-06-04 23:45:34 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
@@ -7523,6 +7537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-04 23:43:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-06-04 21:21:20 +0000"
@@ -7601,6 +7621,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-04 23:43:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-06-04 23:43:24 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_helmet_repairing": {
     "criteria": {
       "has_diamond_helmet": "2025-06-04 22:26:27 +0000"
@@ -7655,6 +7687,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-04 23:43:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-04 22:21:08 +0000"
@@ -7664,6 +7702,12 @@
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-06-04 21:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-04 23:43:18 +0000"
     },
     "done": true
   },
@@ -7712,6 +7756,12 @@
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-04 22:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-04 23:43:18 +0000"
     },
     "done": true
   },
