@@ -1128,6 +1128,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-31 03:35:27 +0000",
+      "minecraft:blaze": "2025-06-04 21:59:31 +0000",
       "minecraft:skeleton": "2025-05-26 03:01:58 +0000",
       "minecraft:ravager": "2025-05-31 04:49:06 +0000",
       "minecraft:vindicator": "2025-05-31 04:40:32 +0000",
@@ -1135,6 +1136,7 @@
       "minecraft:piglin_brute": "2025-06-03 03:30:23 +0000",
       "minecraft:creeper": "2025-05-31 05:18:27 +0000",
       "minecraft:evoker": "2025-05-31 04:56:53 +0000",
+      "minecraft:slime": "2025-06-04 21:57:18 +0000",
       "minecraft:wither_skeleton": "2025-06-03 03:41:25 +0000",
       "minecraft:piglin": "2025-06-03 03:37:54 +0000",
       "minecraft:enderman": "2025-05-26 03:22:50 +0000",
@@ -7406,6 +7408,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-04 21:59:38 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:mineshafts": {
     "criteria": {
       "in_mineshaft_nether": "2025-06-04 21:49:40 +0000"
@@ -7568,6 +7576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-04 21:59:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-04 21:37:33 +0000"
@@ -7577,6 +7591,12 @@
   "regions_unexplored:recipes/misc/yellow_bioshroom_from_tall_yellow_bioshroom": {
     "criteria": {
       "has_tall_yellow_bioshroom": "2025-06-04 21:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-04 21:59:38 +0000"
     },
     "done": true
   },
