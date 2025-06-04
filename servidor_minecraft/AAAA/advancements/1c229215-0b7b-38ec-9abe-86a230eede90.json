@@ -7418,11 +7418,23 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-06-04 21:32:45 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/yellow_dye_from_tall_yellow_bioshroom": {
     "criteria": {
       "has_tall_yellow_bioshroom": "2025-06-04 21:20:44 +0000"
     },
     "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:toxic_heap": "2025-06-04 21:32:45 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {

@@ -1298,3 +1298,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jun2025 21:22:24.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ModelOsprey> para la casa
 [04Jun2025 21:23:17.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ModelOsprey lost connection: Disconnected
 [04Jun2025 21:23:17.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey left the game
+[04Jun2025 21:32:45.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Radioactive]
+[04Jun2025 21:34:07.154] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/16499, l='ServerLevel[AAAA]', x=-54.33, y=35.00, z=-411.80] died: Toxic Slime fell from a high place
+[04Jun2025 21:37:17.823] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Casti414[/127.40.0.99:42317] logged in with entity id 18737 at (-252.23350665625134, 128.0, -2242.84884724659)
+[04Jun2025 21:37:17.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 joined the game
+[04Jun2025 21:37:17.896] [Server thread/INFO] [Jade/]: Syncing config to Casti414 (aae11e9d-7958-355d-b6a7-3da8fe09ab5c)
+[04Jun2025 21:38:25.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xZ3r0kx lost connection: Disconnected
+[04Jun2025 21:38:25.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx left the game
+[04Jun2025 21:38:47.155] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=314, y=43, z=-282} BlockPos{x=318, y=37, z=-284}
+[04Jun2025 21:38:52.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Hidden in the Depths]
