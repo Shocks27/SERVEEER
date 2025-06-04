@@ -1291,3 +1291,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jun2025 02:13:26.661] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PandagamerP[/127.74.19.90:49323] logged in with entity id 3104 at (-368.8013101389511, 207.0, -2200.1318078924733)
 [04Jun2025 02:13:26.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP joined the game
 [04Jun2025 02:13:26.754] [Server thread/INFO] [Jade/]: Syncing config to PandagamerP (585e6dc8-df73-3ccd-9607-c3110a1f71b6)
+[04Jun2025 03:08:55.690] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PandagamerP lost connection: Disconnected
+[04Jun2025 03:08:55.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP left the game
+[04Jun2025 03:12:49.711] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PandagamerP[/127.74.19.90:36223] logged in with entity id 10156 at (-368.4609635224903, 207.0, -2199.8095067809536)
+[04Jun2025 03:12:49.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP joined the game
+[04Jun2025 03:12:49.797] [Server thread/INFO] [Jade/]: Syncing config to PandagamerP (585e6dc8-df73-3ccd-9607-c3110a1f71b6)
