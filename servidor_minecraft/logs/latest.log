@@ -1477,3 +1477,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jun2025 22:17:12.928] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/83764, l='ServerLevel[AAAA]', x=-371.67, y=-20.00, z=-582.59] died: Toxic Slime was killed
 [04Jun2025 22:19:12.782] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/59706, l='ServerLevel[AAAA]', x=-946.97, y=34.10, z=-786.43, removed=DISCARDED]
 [04Jun2025 22:22:02.083] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/59706, l='ServerLevel[AAAA]', x=-946.97, y=34.10, z=-786.43, removed=DISCARDED]
+[04Jun2025 22:26:19.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Cover Me with Diamonds]
+[04Jun2025 22:27:01.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has completed the challenge [Cover Me in Debris]
+[04Jun2025 22:31:54.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [The Power of the Abyss in the Palm of My Hand...]
