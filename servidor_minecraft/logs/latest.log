@@ -1488,3 +1488,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jun2025 22:48:06.421] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-876, 76, -741) minecraft:overworld
 [04Jun2025 22:48:12.076] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/59706, l='ServerLevel[AAAA]', x=-946.97, y=34.10, z=-786.43, removed=DISCARDED]
 [04Jun2025 22:52:18.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has reached the goal [A Step to The End]
+[04Jun2025 23:19:15.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has reached the goal [Zombie Doctor]
+[04Jun2025 23:21:56.365] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/59706, l='ServerLevel[AAAA]', x=-946.97, y=34.10, z=-786.43, removed=DISCARDED]
+[04Jun2025 23:29:37.690] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Casti414 lost connection: Disconnected
+[04Jun2025 23:29:37.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 left the game
+[04Jun2025 23:32:55.982] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/145673, l='ServerLevel[AAAA]', x=-388.74, y=-20.00, z=-540.01] died: Toxic Slime was killed
+[04Jun2025 23:33:17.951] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/146386, l='ServerLevel[AAAA]', x=-376.94, y=77.00, z=-625.01] died: Toxic Slime fell from a high place
+[04Jun2025 23:33:39.714] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/146937, l='ServerLevel[AAAA]', x=-285.46, y=33.00, z=-569.90] died: Toxic Slime fell from a high place
+[04Jun2025 23:33:43.928] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/145446, l='ServerLevel[AAAA]', x=-343.76, y=-20.00, z=-636.84] died: Toxic Slime was killed
+[04Jun2025 23:33:49.928] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/145569, l='ServerLevel[AAAA]', x=-358.98, y=-20.00, z=-579.48] died: Toxic Slime was killed
+[04Jun2025 23:33:52.929] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/145596, l='ServerLevel[AAAA]', x=-375.49, y=-20.00, z=-587.84] died: Toxic Slime was killed
