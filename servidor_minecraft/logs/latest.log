@@ -1288,3 +1288,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jun2025 01:57:45.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Survival Mode]
 [04Jun2025 02:04:44.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PandagamerP lost connection: Disconnected
 [04Jun2025 02:04:44.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP left the game
+[04Jun2025 02:13:26.661] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PandagamerP[/127.74.19.90:49323] logged in with entity id 3104 at (-368.8013101389511, 207.0, -2200.1318078924733)
+[04Jun2025 02:13:26.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP joined the game
+[04Jun2025 02:13:26.754] [Server thread/INFO] [Jade/]: Syncing config to PandagamerP (585e6dc8-df73-3ccd-9607-c3110a1f71b6)
