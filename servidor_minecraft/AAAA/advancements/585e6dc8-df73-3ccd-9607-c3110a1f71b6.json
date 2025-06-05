@@ -110,6 +110,7 @@
       "muddy_river": "2025-05-20 03:39:20 +0000",
       "autumnal_maple_forest": "2025-05-20 04:20:11 +0000",
       "ancient_delta": "2025-05-20 01:14:29 +0000",
+      "willow_forest": "2025-06-05 00:21:16 +0000",
       "redstone_caves": "2025-05-19 23:35:46 +0000",
       "grassy_beach": "2025-05-19 20:21:33 +0000",
       "scorching_caves": "2025-05-19 22:57:08 +0000",
@@ -141,6 +142,7 @@
       "bayou": "2025-06-01 22:37:42 +0000",
       "muddy_river": "2025-05-20 03:39:20 +0000",
       "autumnal_maple_forest": "2025-05-20 04:20:11 +0000",
+      "willow_forest": "2025-06-05 00:21:16 +0000",
       "grassy_beach": "2025-05-19 20:21:33 +0000",
       "blackwood_taiga": "2025-05-20 03:41:26 +0000",
       "ochard": "2025-05-31 01:39:51 +0000",
@@ -11897,112 +11899,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "dungeons_arise:find_lighthouse": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 19:27:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-06-04 19:28:08 +0000",
-      "log_spam_fixer": "2025-06-04 19:27:50 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-04 19:27:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-04 19:27:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-04 19:27:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-04 19:27:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-04 19:27:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-04 19:27:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-04 19:27:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-04 19:27:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-04 19:27:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-04 19:27:50 +0000"
-    },
-    "done": false
-  },
-  "cfm:recipes/decorations/dye_orange_picket_gate": {
-    "criteria": {
-      "has_dye": "2025-06-04 19:06:04 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/dye_yellow_picket_gate": {
-    "criteria": {
-      "has_dye": "2025-06-04 19:04:53 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/dye_yellow_picket_fence": {
-    "criteria": {
-      "has_dye": "2025-06-04 19:04:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_candle": {
-    "criteria": {
-      "has_yellow_dye": "2025-06-04 19:04:53 +0000"
+      "location0": "2025-06-04 19:01:03 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-04 19:04:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-06-04 19:04:53 +0000"
     },
     "done": true
   },
@@ -12024,15 +11929,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_yellow_sleeping_bag": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-04 19:04:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-04 19:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-04 19:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-04 19:04:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_yellow_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-06-04 19:04:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_yellow_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-06-04 19:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-06-04 19:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
     "criteria": {
       "has_needed_dye": "2025-06-04 19:04:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_orange_bed": {
+  "minecraft:recipes/building_blocks/dye_yellow_sleeping_bag": {
     "criteria": {
-      "has_needed_dye": "2025-06-04 19:06:04 +0000"
+      "has_needed_dye": "2025-06-04 19:04:53 +0000"
     },
     "done": true
   },
@@ -12048,9 +11995,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+  "valhelsia_structures:recipes/decorations/yellow_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-06-04 19:04:14 +0000"
+      "has_color": "2025-06-04 19:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-04 19:04:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_orange_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-06-04 19:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-04 19:06:04 +0000"
     },
     "done": true
   },
@@ -12060,27 +12025,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-04 19:04:14 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/yellow_sleeping_bag_from_white_sleeping_bag": {
-    "criteria": {
-      "has_color": "2025-06-04 19:04:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/orange_candle": {
     "criteria": {
       "has_orange_dye": "2025-06-04 19:06:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-06-04 19:12:17 +0000"
     },
     "done": true
   },
@@ -12096,18 +12043,6 @@
     },
     "done": true
   },
-  "dungeons_arise:find_lighthouse": {
-    "criteria": {
-      "location0": "2025-06-04 19:01:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-04 19:04:14 +0000"
-    },
-    "done": true
-  },
   "valhelsia_structures:recipes/decorations/orange_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_color": "2025-06-04 19:06:04 +0000"
@@ -12120,21 +12055,208 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_yellow_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-06-04 19:04:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-04 19:04:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_orange_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-06-04 19:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-04 19:12:17 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-05 00:31:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-06-05 00:31:51 +0000",
+      "log_spam_fixer": "2025-06-05 00:31:49 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-05 00:31:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-05 00:31:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-05 00:31:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-05 00:31:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-05 00:31:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-05 00:31:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-05 00:31:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-05 00:31:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-05 00:31:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-05 00:31:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-06-05 00:20:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_blinds": {
+    "criteria": {
+      "has_log": "2025-06-05 00:20:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_chair": {
+    "criteria": {
+      "has_planks": "2025-06-05 00:20:41 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-06-05 00:20:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2025-06-05 00:29:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-06-05 00:20:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-06-05 00:20:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_crate": {
+    "criteria": {
+      "has_planks": "2025-06-05 00:20:41 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/birch_post": {
+    "criteria": {
+      "has_item": "2025-06-05 00:20:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-06-05 00:20:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/blue_dye_from_blue_lupine": {
+    "criteria": {
+      "has_blue_lupine": "2025-06-05 00:19:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_park_bench": {
+    "criteria": {
+      "has_log": "2025-06-05 00:20:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_cabinet": {
+    "criteria": {
+      "has_log": "2025-06-05 00:20:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-06-05 00:20:41 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/obtain_an_ender_pearl": {
+    "criteria": {
+      "criteria": "2025-06-05 00:29:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-06-05 00:20:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_desk": {
+    "criteria": {
+      "has_planks": "2025-06-05 00:20:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_table": {
+    "criteria": {
+      "has_planks": "2025-06-05 00:20:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
+    "criteria": {
+      "has_log": "2025-06-05 00:20:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-06-05 00:20:41 +0000"
     },
     "done": true
   },
